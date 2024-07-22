@@ -5,9 +5,9 @@ namespace Estoque
 {
     internal class Produto
     {
-        public string? Nome;
-        public double Preco;
-        public int Quantidade;
+        public string? Nome ;
+        public double Preco ;
+        public int Quantidade ;
 
         public double ValorTotalEmEstoque()
         {
